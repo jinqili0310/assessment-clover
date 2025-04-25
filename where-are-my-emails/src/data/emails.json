@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Random email",
+    "date": "2025-02-23T04:30:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "title": "Project email",
+    "date": "2025-02-24T10:02:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "title": "Promotional email",
+    "date": "2025-02-25T14:30:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "title": "Work email",
+    "date": "2025-02-25T10:36:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "title": "Regarding the project",
+    "date": "2025-02-27T12:18:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 6,
+    "title": "Thank you for your purchase",
+    "date": "2025-02-29T12:40:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "title": "Shipping confirmation",
+    "date": "2025-03-01T09:22:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "title": "Request for information",
+    "date": "2025-03-02T10:14:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "title": "Invoice payment",
+    "date": "2025-03-03T11:00:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "title": "March newsletter",
+    "date": "2025-03-04T08:16:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 11,
+    "title": "New product launch",
+    "date": "2025-03-05T12:30:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 12,
+    "title": "Product update",
+    "date": "2025-03-06T10:42:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "title": "Weekly update",
+    "date": "2025-03-07T14:24:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 14,
+    "title": "Order confirmation",
+    "date": "2025-03-08T11:36:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 15,
+    "title": "Product review",
+    "date": "2025-03-09T12:48:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 16,
+    "title": "Request for feedback",
+    "date": "2025-03-10T10:54:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 17,
+    "title": "Product recall",
+    "date": "2025-03-11T14:12:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 18,
+    "title": "Order status",
+    "date": "2025-03-12T11:24:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 19,
+    "title": "Product availability",
+    "date": "2025-03-13T12:36:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": 20,
+    "title": "Verification code",
+    "date": "2025-03-14T10:48:00.000Z",
+    "favorite": false
+  }
+] 
